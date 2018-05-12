@@ -1,0 +1,33 @@
+_repo: A-Canadian-Calendar--XII-Lyrics_39796
+_version: 0.1.0
+alternative_title:
+- 'A Canadian Calendar: 12 Lyrics'
+- 'A Canadian Calendar: Twelve Lyrics'
+covers:
+- cover_type: archival
+  image_path: 39796-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Sherman, Francis
+    alias: Sherman, Francis Joseph
+    birthdate: 1871
+    deathdate: 1926
+    gutenberg_agent_id: '41806'
+    url: http://www.gutenberg.org/2009/agents/41806
+description: ''
+gutenberg_issued: '2013-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canadian poetry'
+tableOfContents: In the north -- A road song in may -- The landsman -- The ghost --
+  A song in August -- To autumn -- Three grey days -- The watch -- The seekers --
+  Fellowship -- The lodger -- March wind.
+title: 'A Canadian Calendar: XII Lyrics'
+url: http://www.gutenberg.org/ebooks/39796
